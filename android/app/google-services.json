@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031811811298",
+    "firebase_url": "https://flash-chat-3d23a.firebaseio.com",
+    "project_id": "flash-chat-3d23a",
+    "storage_bucket": "flash-chat-3d23a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031811811298:android:4bc3056a008970e5b6dbbb",
+        "android_client_info": {
+          "package_name": "co.HagCo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031811811298-aaj9ccogqpp403qr33pmpnvm6ebq7tcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpgcFWS4Viz-OjyhqBBM7_hrgVxcOn-k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031811811298-aaj9ccogqpp403qr33pmpnvm6ebq7tcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
